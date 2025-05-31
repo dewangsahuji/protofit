@@ -25,7 +25,7 @@ ProtoFit is an AI-powered fitness assistant that helps users track workout reps,
 
 3. **Run the application:**
    ```bash
-   python main.py
+   python fito.py
    ```
 
 ## Usage
