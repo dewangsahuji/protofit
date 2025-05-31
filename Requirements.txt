@@ -1,4 +1,5 @@
 mediapipe
+pandas
 opencv-python
 numpy
 tensorflow
