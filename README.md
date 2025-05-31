@@ -4,11 +4,11 @@ ProtoFit is an AI-powered fitness assistant that helps users track workout reps,
 
 ## Features
 
-- ✅ **Rep Counting** – Automatically counts reps for exercises like push-ups, squats, and bicep curls.
-- ✅ **Form Correction** – Detects incorrect posture and provides feedback.
-- ✅ **Video Analysis** – Upload a workout video for AI-based form correction.
-- ✅ **3D Visualization** – View exercises with skeleton tracking and muscle mapping.
-- ✅ **Workout Dashboard** – Track workout stats and improvements over time.
+-  **Rep Counting** – Automatically counts reps for exercises like push-ups, squats, and bicep curls.
+-  **Form Correction** – Detects incorrect posture and provides feedback.
+-  **Video Analysis** – Upload a workout video for AI-based form correction.
+-  **3D Visualization** – View exercises with skeleton tracking and muscle mapping.
+-  **Workout Dashboard** – Track workout stats and improvements over time.
 
 ## Installation
 
